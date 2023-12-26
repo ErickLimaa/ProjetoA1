@@ -67,9 +67,5 @@ def executar_programa():
 
 executar_programa()
 
-# Os desenvolvedores são:
-# Erick Lima Prudencio da Silva - 33755698
-# Guilherme Pereira Fagundes - 33597995
-# Hiago Rocha de Melo - 34171959
-# Campus Paulista
+
 
